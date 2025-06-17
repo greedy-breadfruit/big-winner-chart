@@ -4,8 +4,8 @@ import * as htmlToImage from 'html-to-image';
 
 const initialCategories = ['Growth and Character', 'Relatability', 'Social Game', 'Strength & Resilience', 'Impact'];
 const initialData = {
-  RaWi: [9, 8, 7, 9, 9],
-  CharEs: [8, 10, 10, 7, 8],
+  RaWi: [9, 8, 7, 10, 9],
+  CharEs: [8, 9, 9, 7, 8],
   BreKa: [9, 8, 8, 7, 7],
   AzVer: [7, 7, 6, 6, 6],
   DusBi: [6, 6, 5, 8, 7],
